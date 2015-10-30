@@ -19,7 +19,7 @@ public class Vector3D
       {
     this.x =x; 
     this.y =y; 
-     this.z=z; 
+    this.z=z; 
     
     } 
      
